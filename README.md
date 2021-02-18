@@ -21,5 +21,7 @@ Do not try run the project only with the Table.java
 Table.java is having uses methods defined in other classes.
 ``` 
 ```text
-This Table.java file has been modified for testing purposes. Some of the methods have been created in KeyType.java for testing purposes and dependency corrections. I have created a Maven project to build this implementation. Somehow it could need other files as well.
+This Table.java file has been modified for testing purposes. 
+Some of the methods have been created in KeyType.java for testing purposes and dependency corrections. 
+I have created a Maven project to build this implementation. Somehow it could need other files as well.
 ``` 
